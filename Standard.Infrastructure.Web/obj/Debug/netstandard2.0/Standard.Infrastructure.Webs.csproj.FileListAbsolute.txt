@@ -1,0 +1,12 @@
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Webs.csprojAssemblyReference.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Webs.csproj.CoreCompileInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Webs.AssemblyInfoInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Webs.AssemblyInfo.cs
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\bin\Debug\netstandard2.0\Standard.Infrastructure.Webs.deps.json
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\bin\Debug\netstandard2.0\Standard.Infrastructure.Webs.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\bin\Debug\netstandard2.0\Standard.Infrastructure.Webs.pdb
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\bin\Debug\netstandard2.0\Standard.Infrastructure.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\bin\Debug\netstandard2.0\Standard.Infrastructure.pdb
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Webs.csproj.CopyComplete
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Webs.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Webs.pdb

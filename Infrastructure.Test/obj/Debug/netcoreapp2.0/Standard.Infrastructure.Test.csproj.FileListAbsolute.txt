@@ -1,0 +1,14 @@
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\bin\Debug\netcoreapp2.0\Standard.Infrastructure.Test.deps.json
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\bin\Debug\netcoreapp2.0\Standard.Infrastructure.Test.runtimeconfig.json
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\bin\Debug\netcoreapp2.0\Standard.Infrastructure.Test.runtimeconfig.dev.json
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\bin\Debug\netcoreapp2.0\Standard.Infrastructure.Test.dll
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\bin\Debug\netcoreapp2.0\Standard.Infrastructure.Test.pdb
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\obj\Debug\netcoreapp2.0\Standard.Infrastructure.Test.csprojAssemblyReference.cache
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\obj\Debug\netcoreapp2.0\Standard.Infrastructure.Test.csproj.CoreCompileInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\obj\Debug\netcoreapp2.0\Standard.Infrastructure.Test.AssemblyInfoInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\obj\Debug\netcoreapp2.0\Standard.Infrastructure.Test.AssemblyInfo.cs
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\obj\Debug\netcoreapp2.0\Standard.Infrastructure.Test.dll
+E:\MyNewPro\Standard.Infrastructure\Infrastructure.Test\obj\Debug\netcoreapp2.0\Standard.Infrastructure.Test.pdb

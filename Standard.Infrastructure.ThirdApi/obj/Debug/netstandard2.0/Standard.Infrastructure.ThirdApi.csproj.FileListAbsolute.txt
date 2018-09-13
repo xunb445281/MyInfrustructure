@@ -1,0 +1,12 @@
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\obj\Debug\netstandard2.0\Standard.Infrastructure.ThirdApi.csprojAssemblyReference.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\obj\Debug\netstandard2.0\Standard.Infrastructure.ThirdApi.csproj.CoreCompileInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\obj\Debug\netstandard2.0\Standard.Infrastructure.ThirdApi.AssemblyInfoInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\obj\Debug\netstandard2.0\Standard.Infrastructure.ThirdApi.AssemblyInfo.cs
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\bin\Debug\netstandard2.0\Standard.Infrastructure.ThirdApi.deps.json
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\bin\Debug\netstandard2.0\Standard.Infrastructure.ThirdApi.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\bin\Debug\netstandard2.0\Standard.Infrastructure.ThirdApi.pdb
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\bin\Debug\netstandard2.0\Standard.Infrastructure.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\bin\Debug\netstandard2.0\Standard.Infrastructure.pdb
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\obj\Debug\netstandard2.0\Standard.Infrastructure.ThirdApi.csproj.CopyComplete
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\obj\Debug\netstandard2.0\Standard.Infrastructure.ThirdApi.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.ThirdApi\obj\Debug\netstandard2.0\Standard.Infrastructure.ThirdApi.pdb

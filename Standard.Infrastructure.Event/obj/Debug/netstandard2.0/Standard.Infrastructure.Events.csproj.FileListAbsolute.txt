@@ -1,0 +1,12 @@
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\obj\Debug\netstandard2.0\Standard.Infrastructure.Events.csprojAssemblyReference.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\obj\Debug\netstandard2.0\Standard.Infrastructure.Events.csproj.CoreCompileInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\obj\Debug\netstandard2.0\Standard.Infrastructure.Events.AssemblyInfoInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\obj\Debug\netstandard2.0\Standard.Infrastructure.Events.AssemblyInfo.cs
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\bin\Debug\netstandard2.0\Standard.Infrastructure.Events.deps.json
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\bin\Debug\netstandard2.0\Standard.Infrastructure.Events.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\bin\Debug\netstandard2.0\Standard.Infrastructure.Events.pdb
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\bin\Debug\netstandard2.0\Standard.Infrastructure.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\bin\Debug\netstandard2.0\Standard.Infrastructure.pdb
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\obj\Debug\netstandard2.0\Standard.Infrastructure.Events.csproj.CopyComplete
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\obj\Debug\netstandard2.0\Standard.Infrastructure.Events.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Event\obj\Debug\netstandard2.0\Standard.Infrastructure.Events.pdb

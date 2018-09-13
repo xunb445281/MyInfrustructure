@@ -1,0 +1,9 @@
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.AssemblyInfoInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.AssemblyInfo.cs
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\bin\Debug\netstandard2.0\Standard.Infrastructure.deps.json
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\bin\Debug\netstandard2.0\Standard.Infrastructure.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\bin\Debug\netstandard2.0\Standard.Infrastructure.pdb
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.pdb
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.csprojAssemblyReference.cache

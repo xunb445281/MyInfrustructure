@@ -1,0 +1,6 @@
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\bin\Debug\netstandard2.0\Standard.Infrastructure.Web.deps.json
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\bin\Debug\netstandard2.0\Standard.Infrastructure.Web.dll
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Web.csprojResolveAssemblyReference.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Web.csproj.CoreCompileInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Web.AssemblyInfoInputs.cache
+E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure.Web\obj\Debug\netstandard2.0\Standard.Infrastructure.Web.AssemblyInfo.cs
