@@ -7,3 +7,12 @@ E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\bin\Debug\netstandar
 E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.dll
 E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.pdb
 E:\MyNewPro\Standard.Infrastructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.csprojAssemblyReference.cache
+E:\源码\MyInfrustructure\Standard.Infrastructure\bin\Debug\netstandard2.0\Standard.Infrastructure.deps.json
+E:\源码\MyInfrustructure\Standard.Infrastructure\bin\Debug\netstandard2.0\Standard.Infrastructure.dll
+E:\源码\MyInfrustructure\Standard.Infrastructure\bin\Debug\netstandard2.0\Standard.Infrastructure.pdb
+E:\源码\MyInfrustructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.csprojAssemblyReference.cache
+E:\源码\MyInfrustructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.csproj.CoreCompileInputs.cache
+E:\源码\MyInfrustructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.AssemblyInfoInputs.cache
+E:\源码\MyInfrustructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.AssemblyInfo.cs
+E:\源码\MyInfrustructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.dll
+E:\源码\MyInfrustructure\Standard.Infrastructure\obj\Debug\netstandard2.0\Standard.Infrastructure.pdb
